@@ -106,4 +106,4 @@ Execute the program
 </html>
 ```
 # OUPUT
-![](./Screenshot%20from%202023-12-23%2019-03-29.png)
+![tabe](https://github.com/Harishraja6211/timetable/assets/154001429/81886d28-fd5f-4d73-bd5a-2fecf3fece52)
